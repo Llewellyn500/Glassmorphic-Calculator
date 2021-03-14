@@ -13,29 +13,9 @@ body {
     min-height: 100vh;
     background: linear-gradient(to bottom, #7927b2, #fb3182);
 }
-/*body::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(#333399,#ff00cc);
-    clip-path: circle(22% at 30% 20%);
-}
-body::after{
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(#c02425,#f0cb35);
-    clip-path: circle(22% at 70% 90%);
-}*/
 .container {
     position: relative;
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(255, 255, 255, 0.08);
     border-radius: 6px;
     overflow: hidden;
     z-index: 10;
@@ -82,7 +62,7 @@ body::after{
     background: rgba(255, 255, 255, 0.05);
 }
 .container .calculator span:active{
-    background: #2196f3;
+    background: #7827b257;
     color: #192f00;
     font-size: 24px;
     font-weight: 500;
