@@ -25,8 +25,8 @@ body {
     position: absolute;
     width: 50px;
     height: 100px;
-    background: linear-gradient(to bottom, #7927b2, #fb3182);
-    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.2);
+    background: #fb3182;
+    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.1);
 }
 .container {
     position: relative;
