@@ -5,4 +5,4 @@ Simple calculator with a glassmorphic design and mouse hover effect on it help g
 </p>
 
 <h2>Site Link:</h2>
-<a href="https://llewellyn500.github.io/Glassmorphic-Calculator/">llewellyn500.github.io/glassmorphic-calculator/</a>
+<a href="https://llewellyn500.github.io/Glassmorphic-Calculator/">https://llewellyn500.github.io/Glassmorphic-Calculator/</a>
