@@ -6,3 +6,6 @@ Simple calculator with a glassmorphic design and mouse hover effect on it help g
 
 <h2>Site Link:</h2>
 <a href="https://llewellyn500.github.io/Glassmorphic-Calculator/">https://llewellyn500.github.io/Glassmorphic-Calculator/</a>
+<br />
+
+<img src="./Glassmorphic-calculator.gif" align="center">
